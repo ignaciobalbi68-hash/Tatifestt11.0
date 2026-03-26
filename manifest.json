@@ -1,0 +1,16 @@
+{
+  "name": "Tatifestt Álbum IA",
+  "short_name": "Tatifestt",
+  "description": "Tu álbum instantáneo de recuerdos con IA HDR.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e0f2fe",
+  "theme_color": "#5faec2",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1042/1042339.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
